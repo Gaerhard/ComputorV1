@@ -33,3 +33,13 @@ Each term of the equation should have the following format
 ```
 ax^p or a*x^p
 ```
+
+### Features
+Verbose
+```
+-v option will explain every step followed to obtain the result
+```
+Graph
+```
+-g option will show a graph of the equation values
+```
