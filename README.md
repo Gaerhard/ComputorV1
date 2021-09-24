@@ -1,5 +1,5 @@
 # ComputorV1
-ComputorV1 project from 42School Par
+ComputorV1 project from 42School
 
 ### Prerequisites
 
