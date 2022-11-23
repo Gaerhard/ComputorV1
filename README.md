@@ -43,3 +43,5 @@ Graph
 ```
 -g option will show a graph of the equation values
 ```
+### Note
+I did this project to learn python and regexes, therefore my parsing method is horrendous
